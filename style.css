@@ -21,3 +21,27 @@ h1{
         color: white;
     }
 }
+@media (min-width:1024px) {
+    body{
+        background-color:red;
+    }
+    h1{
+        color: black;
+    }
+}
+@media (min-width:1280px) {
+    body{
+        background-color:darkorange;
+    }
+    h1{
+        color: green;
+    }
+}
+@media (min-width:1536px) {
+    body{
+        background-color:blueviolet;
+    }
+    h1{
+        color: white;
+    }
+}
