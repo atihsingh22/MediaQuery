@@ -29,7 +29,7 @@ h1{
         color: black;
     }
 }
-/* @media (min-width:1280px) {
+@media (min-width:1280px) {
     body{
         background-color:darkorange;
     }
@@ -44,4 +44,4 @@ h1{
     h1{
         color: white;
     }
-} */
+}
